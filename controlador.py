@@ -14,6 +14,6 @@ for c in resul:
     cont += 3
 
 
-print(instrucao)
-print(posicao)
+print(int(instrucao[1]))
+print(int(posicao[0]))
 print(valor)
