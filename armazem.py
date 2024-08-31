@@ -7,3 +7,4 @@ class Armazen:
         
     def retorna(self, endereco):
         return self.memoria.get(endereco, 0)
+    
